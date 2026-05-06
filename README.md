@@ -1,6 +1,6 @@
 <div align="center">
 
-![MrPikchu-Welcome-Bot](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MrPikchu-Welcome-Bot&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Clean+welcome+%26+goodbye+embeds+for+your+Discord+server&descAlignY=52&descSize=16)
+[![MrPikchu-Welcome-Bot](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MrPikchu-Welcome-Bot&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Clean+welcome+%26+goodbye+embeds+for+your+Discord+server&descAlignY=52&descSize=16)](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MrPikchu-Welcome-Bot&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome+%26+Goodbye+Bot+for+Discord&descAlignY=52&descSize=16)
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![discord.py](https://img.shields.io/badge/discord.py-2.x-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordpy.readthedocs.io/)
