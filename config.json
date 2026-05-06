@@ -1,0 +1,31 @@
+{
+  "guild_id": 1485241613226737815,
+  "status": "the server gates",
+  "colors": {
+    "primary": 3447003,
+    "success": 3066993,
+    "error": 15158332,
+    "warning": 15974059,
+    "info": 3447003
+  },
+  "channels": {
+    "welcome": 0,
+    "goodbye": 0
+  },
+  "footer": {
+    "text": "MrPikchu-Welcome-Bot",
+    "icon_url": ""
+  },
+  "roles": {
+    "bot_admin": 1501621475852030114
+  },
+  "welcome": {
+    "welcome_title": "Welcome to the server!",
+    "welcome_description": "Hey {member}, welcome to **{server}**!\nWe are glad to have you here. Enjoy your stay!",
+    "goodbye_title": "Someone just left...",
+    "goodbye_description": "**{member}** has left **{server}**.\nWe hope to see you again someday!",
+    "members_field_name": "Members",
+    "account_field_name": "Account Created",
+    "banner_url": ""
+  }
+}
